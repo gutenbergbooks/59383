@@ -1,31 +1,7 @@
-The Project Gutenberg EBook of The Southern Literary Messenger, Vol. I.,
-No. 13, September, 1835, by Various
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Southern Literary Messenger, Vol. I., No. 13, September, 1835
-
-Author: Various
-
-Editor: Edward Vernon Sparhawk
-
-Release Date: April 28, 2019 [EBook #59383]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK SOUTHERN LITERARY MESSENGER, SEPT 1835 ***
+*** START OF THE PROJECT GUTENBERG EBOOK 59383 ***
 
 
 
-
-Produced by Ron Swanson
 
 
 
@@ -36,7 +12,7 @@ THE SOUTHERN LITERARY MESSENGER:
 DEVOTED TO EVERY DEPARTMENT OF LITERATURE AND THE FINE ARTS.
 
 
-Au gré de nos desirs bien plus qu'au gré des vents.
+Au grÃ© de nos desirs bien plus qu'au grÃ© des vents.
                                       _Crebillon's Electre_.
 
 As _we_ will, and not as the winds will.
@@ -451,7 +427,7 @@ accept the terms offered on the 27th. Omar declared his own
 unwillingness to yield, and his readiness to abandon the city in
 preference; but he was overruled by his Divan, and having reluctantly
 agreed to submit to them, the Chevalier d'Ankarloo the Swedish Consul,
-(since Chargé d'Affaires of Sweden in the United States,) was
+(since ChargÃ© d'Affaires of Sweden in the United States,) was
 requested by him to go on board the British fleet and make the
 necessary arrangements in behalf of Algiers. On the 29th a convention
 was signed, the conditions of which were--the delivery of all slaves
@@ -1873,7 +1849,7 @@ courage of philosophy--as the most stubborn city to the ceaseless
 vigilance of an enemy. Salmanezer, as we have it in the holy writings,
 lay three years before Samaria: yet it fell. Sardanapalus--see
 Diodorus--maintained himself seven in Nineveh: but to no purpose. Troy
-expired at the close of the second lustrum: and Azoth, as Aristæus
+expired at the close of the second lustrum: and Azoth, as AristÃ¦us
 declares upon his honor as a gentleman, opened at last her gates to
 Psammitticus, after having barred them for the fifth part of a
 century.
@@ -1892,14 +1868,14 @@ discovered that _I had lost my breath_.
 
 The phrases "I am out of breath," "I have lost my breath," &c. are
 often enough repeated in common conversation, but it had never
-occurred to me that the terrible accident of which I speak could _boná
+occurred to me that the terrible accident of which I speak could _bonÃ¡
 fide_ and actually happen! Imagine--that is if you have a fanciful
 turn--imagine I say, my wonder--my consternation--my despair!
 
 There is a good genius, however, which has never, at any time,
 entirely deserted me. In my most ungovernable moods I still retain a
 sense of propriety, _et le chemin des passions me conduit_--as
-Rousseau says it did him--_à la philosophie veritable_.
+Rousseau says it did him--_Ã  la philosophie veritable_.
 
 Although I could not at first precisely ascertain to what degree the
 occurrence had affected me, I unhesitatingly determined to conceal at
@@ -2037,7 +2013,7 @@ Seeing that I remained motionless, (all my limbs were dislocated, and
 my head twisted on one side,) his apprehensions began to be excited;
 and arousing the rest of the passengers, he communicated, in a very
 decided manner, his opinion that a dead man had been palmed upon them
-during the night for a living _boná fide_ and responsible
+during the night for a living _bonÃ¡ fide_ and responsible
 fellow-traveller--here giving me a thump on the right eye, by way of
 evidencing the truth of his suggestion.
 
@@ -2098,7 +2074,7 @@ not my mouth been tied up by the pocket-handkerchief. Consoling myself
 with this reflection, I was mentally repeating some passages of the
 ----, as is my custom before resigning myself to sleep, when two cats,
 of a greedy and vituperative turn, entering at a hole in the wall,
-leaped up with a flourish _à la Catalani_, and alighting opposite one
+leaped up with a flourish _Ã  la Catalani_, and alighting opposite one
 another on my visage, betook themselves to unseemly and indecorous
 contention for the paltry consideration of my nose.
 
@@ -2192,7 +2168,7 @@ traversed when a man--that I did not at that time most palpably
 behold. I could repeat to myself entire lines, passages, names, acts,
 chapters, books, from the studies of my earlier days; and while, I
 dare say, the crowd around me were blind with horror, or aghast with
-awe, I was alternately with Æschylus, a demi-god, or with
+awe, I was alternately with Ã†schylus, a demi-god, or with
 Aristophanes, a frog.
 
        *       *       *       *       *
@@ -2216,7 +2192,7 @@ principles of common law--propriety of that law especially, for which
 I hung--absurdities in political economy which till then I had never
 been able to acknowledge--dogmas in the old Aristotelians now
 generally denied, but not the less intrinsically true--detestable
-school formulæ in Bourdon, in Garnier, in Lacroix--synonymes in
+school formulÃ¦ in Bourdon, in Garnier, in Lacroix--synonymes in
 Crabbe--lunar-lunatic theories in St. Pierre--falsities in the Pelham
 novels--beauties in Vivian Grey--more than beauties in Vivian
 Grey--profundity in Vivian Grey--genius in Vivian Grey--every thing in
@@ -2441,10 +2417,10 @@ home--talked eternally--and played upon the French horn.
 "He patronized the bag-pipes. Captain Barclay, who walked against
 Time, would not walk against _him_. Windham and Allbreath were his
 favorite writers. He died gloriously while inhaling gas--_levique
-flatu corrumpitur_, like the _fama pudicitiæ_ in Hieronymus.[2] He was
+flatu corrumpitur_, like the _fama pudicitiÃ¦_ in Hieronymus.[2] He was
 indubitably a"----
 
-[Footnote 2: _Tenera res in feminis fama pudicitiæ et quasi flos
+[Footnote 2: _Tenera res in feminis fama pudicitiÃ¦ et quasi flos
 pulcherrimus, cito ad levem marcessit auram, levique flatu
 corrumpitur--maxime_, &c.--Hieronymus ad Salvinam.]
 
@@ -3312,7 +3288,7 @@ clothing in strict keeping with a style which, all who can recollect,
 or even have heard much of the good old days of our grandfathers, will
 at once recognise. Just imagine, I say, this odd figure, thus
 garmented up, and you will form a good idea of the general appearance
-of my visiter--(For I cannot believe it was the same _boná fide_ pair
+of my visiter--(For I cannot believe it was the same _bonÃ¡ fide_ pair
 of tongs, which are now so peacefully reposing before me.) The first
 glance was sufficient for an introduction. A slight start on my side,
 and a familiar "at home" sort of nod on his--and all was settled. His
@@ -3879,7 +3855,7 @@ appendix to the work under examination; from the original, as we may
 conjecture, which, in the orator's own hand writing, is now in the
 possession of his nephew, Dr. John C. Warren. The opening was brief
 and simple: but in it we discern that curbed energy, that impassioned
-moderation--_une force contenue, une rèserve animée_--so
+moderation--_une force contenue, une rÃ¨serve animÃ©e_--so
 characteristic of a great mind, concentrating its powers for some
 gigantic effort: and as he passes on from the unaffected humility of
 his exordium "to the height of his great argument," we have bodily
@@ -4019,7 +3995,7 @@ moral sublime, than that which our young countryman presented,--daring
 thus, amidst armed and frowning enemies, to denounce them and their
 masters, and to speak forth the startling truths of justice and
 freedom, with the naked sword of tyranny suspended over his head. The
-rising of Brutus, "refulgent from the stroke of Cæsar's fate," shaking
+rising of Brutus, "refulgent from the stroke of CÃ¦sar's fate," shaking
 his crimsoned steel, and hailing Tully aloud as the "father of his
 country"--Tully's own denunciations of Catiline, Verres and
 Anthony--or the more illustrious Philippics of Demosthenes--all remote
@@ -4753,7 +4729,7 @@ spot which tinged her otherwise leaden complexion, gave evident
 indications of a galloping consumption.
 
 An air of extreme _haut ton_, however, pervaded her whole
-appearance--she wore in a graceful and _degagé_ manner, a large and
+appearance--she wore in a graceful and _degagÃ©_ manner, a large and
 beautiful winding-sheet of the finest India lawn--her hair hung in
 ringlets over her neck--a soft smile played about her mouth--but her
 nose, extremely long, thin, sinuous, flexible, and pimpled, hung down
@@ -4997,7 +4973,7 @@ fierce--so impetuous--so overwhelming--that the room was flooded from
 wall to wall--the loaded table was overturned--the tressels were
 thrown upon their backs--the tub of punch into the fire place--and the
 ladies into hysterics. Jugs, pitchers, and carboys mingled
-promiscuously in the _melée_, and wicker flagons encountered
+promiscuously in the _melÃ©e_, and wicker flagons encountered
 desperately with bottles of junk. Piles of death-furniture floundered
 about. Sculls floated _en masse_--hearse-plumes nodded to
 escutcheons--the man with the horrors was drowned upon the spot--the
@@ -5031,7 +5007,7 @@ discovered to contain a polite invitation from a wealthy and
 fashionable acquaintance to spend the next evening at her house. The
 emphatic N. B. "_Mrs. M. would be glad to see her friends in fancy
 dresses,_" soon brought to my experienced mind the nature of the
-_fête_ to which I had the honor of an invitation. I arose to consult
+_fÃªte_ to which I had the honor of an invitation. I arose to consult
 my prints and books to discover the most appropriate costume wherein
 to conceal my noble self. But not being able to suit exactly my
 somewhat fastidious taste, I resolved to consult the accomplished,
@@ -5243,7 +5219,7 @@ neither of man, nor of God, nor of any familiar thing. And quivering
 awhile among the draperies of the room, it at length rested in full
 view upon the surface of the door of brass. But the shadow was vague,
 and formless, and indefinitive, and was the shadow neither of man nor
-God--neither God of Greece, nor God of Chaldæa, nor any Egyptian God.
+God--neither God of Greece, nor God of ChaldÃ¦a, nor any Egyptian God.
 And the shadow rested upon the brazen doorway, and under the arch of
 the entablature of the door, and moved not, nor spoke any word, but
 there became stationary and remained. And the door whereupon the
@@ -5514,16 +5490,16 @@ PARIS, ----.
 _Dear Jane_:
 
 Here is an interesting narrative to amuse you, which I have just heard
-related. In the _Champs Elysées_, there stands a beautiful protestant
+related. In the _Champs ElysÃ©es_, there stands a beautiful protestant
 chapel, where we attend divine service almost every Sabbath; if we do
 not go there, we repair to the oratorio, a protestant church in the
-Rue St. Honoré, or to the English Ambassador's, where there is public
+Rue St. HonorÃ©, or to the English Ambassador's, where there is public
 worship every Sunday, or to another temple consecrated to our form of
 worship, (the Church of the Visitation,) in the Rue Saint Antoine.
 Bishop Luscombe officiates at the oratorio, and Mr. Wilkes, a
 Presbyterian clergyman, assembles his congregation in an upper
 apartment adjoining the church. The history in question is that of the
-Rev. Mr. Lewis Way, who owns the chapel in the Champs Elysées and
+Rev. Mr. Lewis Way, who owns the chapel in the Champs ElysÃ©es and
 preaches there; he is extremely eloquent and energetic, and speaks
 plain truths to his flock without hesitation, when necessary. It is
 said that when a youth he had an ardent desire to be educated for the
@@ -5700,20 +5676,20 @@ to resign his office, and has been succeeded by Monsieur ----.
 We found him and Madame de N---- surrounded by friends, who had
 accidentally dropped in as well as ourselves, and the evening being
 sultry, the company were regaled with delicious _sorbets_ and iced
-creams. _Ecarté_ was soon introduced among the elder gentry, and
+creams. _EcartÃ©_ was soon introduced among the elder gentry, and
 several of Mr. de Neuville's young nieces being there, our brothers
 and two other youthful beaux, the girls and myself joined them in
 playing "Tierce" and Blindman's-buff in the saloon. We enjoyed
 ourselves thus, till quite a late hour. One of the most curious and
 interesting places that has recently attracted our attention, is the
 "Museum of Artillery," in the street of the University. It is the
-depôt of a great variety of antique armor, ordnance and implements of
+depÃ´t of a great variety of antique armor, ordnance and implements of
 war, and among the first we beheld the coat of mail of many a famous
 champion and that of Joan of Arc, which we thought uncommonly large to
 fit a woman. Every article is kept beautifully neat and bright, and a
 number of the things are labelled, which saves the trouble of a guide
 to explain their names and use. Another most singular place we have
-seen is the "_Marché du Vieux Linge_," or "rag fair." This is an
+seen is the "_MarchÃ© du Vieux Linge_," or "rag fair." This is an
 enormous building divided into four halls, containing 800 stalls or
 petty shops. And oh! the queer articles that are in these
 shops!--tawdry second hand hats and dresses--old shoes, old gloves,
@@ -5725,7 +5701,7 @@ quarter, to "come and buy," and may think himself lucky if he be not
 seized and absolutely forced into some of the stalls, to behold their
 wonders. _We_ went out of mere curiosity and were glad to hurry out as
 quickly as our feet could carry us, the people were so rude and
-presuming. The "Halle au Blé," or "corn market," well merits
+presuming. The "Halle au BlÃ©," or "corn market," well merits
 examination. It is a large circular edifice of stone, enclosing one
 immense hall with a vaulted roof of sheet iron supported on an immense
 framing of cast iron; from a window in the centre of which the light
@@ -5738,7 +5714,7 @@ Bartholomew, in 1572. It was once rich in pictures and statues; at
 present, it is remarkable only for its antiquity and the curious
 carving around its portal. Its founder was the cruel and superstitious
 Childebert, and two statues of stone, near the entrance, are said to
-represent him and his wife. On the _fête de_ Dieu, the royal family
+represent him and his wife. On the _fÃªte de_ Dieu, the royal family
 walk there in procession from the palace of the Tuilleries, to hear
 mass. They are magnificently arrayed and attended by a concourse of
 priests and soldiers, and by a band of females clad in white, who
@@ -5824,7 +5800,7 @@ reign of terror, met their fate, at the foot of a statue of Liberty,
 erected during that bloody period on the ruins of an equestrian statue
 of Louis XV. This was overthrown by the remorseless revolutionists,
 although it was universally regarded as an exquisite piece of
-sculpture, (especially the horse) and was the chéf d'oeuvre of
+sculpture, (especially the horse) and was the chÃ©f d'oeuvre of
 Bouchardon. Issuing like Jonah from the whale, but probably with less
 _velocity_, we went to the Bazaar to purchase some rolls of sweet
 chocolate, which we are advised to carry with us, as being agreeable
@@ -5884,7 +5860,7 @@ handsome structure, extending for many yards along the borders of the
 Seine. Its designation has been changed and it is now used by the
 "Royal Academy or Institute," for their private meetings and general
 assemblies. This corps of Savans was established in the reign of
-Louis, and is composed of the élite of the philosophers, artists and
+Louis, and is composed of the Ã©lite of the philosophers, artists and
 literary men of the kingdom. They correspond with the literati of all
 countries, and have done much in the cause of literature and the arts
 and sciences. They have ranged themselves into four classes; the first
@@ -5906,7 +5882,7 @@ members wear a costume of black and green, and the successful
 candidates are sometimes crowned with wreaths of laurel. The hall and
 several apartments leading to it, are decorated with statues of
 various distinguished characters,--as Bossuet, Fenelon, Sully, Pascal,
-Descartes, Rollin, Molière, and others, whose names are venerated by
+Descartes, Rollin, MoliÃ¨re, and others, whose names are venerated by
 the learned and good. The post hour has arrived, so farewell to my
 "bonny Jean"--we shall soon be still farther from you, but any where
 and every where I shall still be your devoted sister
@@ -5978,7 +5954,7 @@ BOOK VI.
   He meant to hasten, there his faithful wife
   Andromache, to meet her Hector ran;--
   His wife with wealthy dowry, daughter fair
-  Of fam'd Eëtion,--chief magnanimous,
+  Of fam'd EÃ«tion,--chief magnanimous,
   Who dwelt, in Hypoplacus' sylvan land,
   At Hypoplacian Thebes,--Cilicia's king;--
   His daughter wedded Hector great in arms,
@@ -6007,11 +5983,11 @@ BOOK VI.
   My honor'd mother lives.--Achilles slew
   My father, and laid waste Cilician Thebes,
   His town, well-peopled, grac'd with lofty gates.
-  He slew Eëtion;--yet, with rev'rence touch'd,
+  He slew EÃ«tion;--yet, with rev'rence touch'd,
   Despoil'd him not, but burn'd the breathless corse
   With all it's splendid armor, and, above
   It's ashes, heap'd a monument of earth.
-  The mountain nymphs, of Ægis-bearing Jove
+  The mountain nymphs, of Ã†gis-bearing Jove
   Immortal daughters, planted round the tomb
   A grove of elms, in honor of the dead.--
   My brethren, too,--seven gallant heroes,--all
@@ -6035,7 +6011,7 @@ BOOK VI.
   May be ascended:--there, a fierce assault,
   The bravest of our foes have thrice essayed;--
   The two Ajaces, fam'd Idomeneus,
-  Th' Atridæ also, and the mighty son
+  Th' AtridÃ¦ also, and the mighty son
   Of Tydeus;--whether by some soothsay'r mov'd
   In heavenly tokens skill'd, or their own minds
   Impelling them with animating hope.
@@ -6444,7 +6420,7 @@ Warm Spring Mountain which overlooks the first thermal fountain in the
 Pilgrim's path to Hygeia. Here I commence my adventures. This is the
 starting point of my story, and it is henceforth of course that I
 shall expect my gentle reader to sharpen his attentive faculty--and as
-Mark Anthony said to his countrymen at Cæsar's funeral, "lend me his
+Mark Anthony said to his countrymen at CÃ¦sar's funeral, "lend me his
 ears." Gently and by slow degrees had we surmounted the ascent of this
 celebrated mountain, (celebrated at least in the Old Dominion and by
 all travellers to the Springs,) and now we were about to pass down
@@ -6616,7 +6592,7 @@ to-morrow--would spread a new and brighter coloring over my prospects.
 Cato being dismissed, I retired and slept soundly for the space of two
 hours at least; at the expiration of which time, I was suddenly
 startled by a noise immediately underneath me, which to my classical
-fancy seemed to resemble the shrieks of the ancient Bacchæ, the
+fancy seemed to resemble the shrieks of the ancient BacchÃ¦, the
 Priestesses of the Vine-loving God. Let that however pass! There was a
 mixture of music in it, or of something intended for music, which kept
 me in a tolerable humor and smoothed over those porcupine points which
@@ -6636,7 +6612,7 @@ a man cannot use it even in this free country.
 
 Morning at last dawned--but oh! what a morning? The rain fell in
 torrents--and the wind came whistling down the mountain hollows as if
-old Æolus had resolved that his voice should be distinctly heard and
+old Ã†olus had resolved that his voice should be distinctly heard and
 his strength clearly understood. What was I to do? To walk abroad was
 impossible--so I even resolved to lay quietly ensconced in my cot,
 _hard_ as it was, until my fellow lodger, who was one of the Saturnine
@@ -6700,7 +6676,7 @@ assassination of the King of the French--a third were denouncing the
 whole army of abolitionists and lamenting that Tappan and Thompson did
 not find it convenient to visit the White Sulphur Springs--a fourth
 were denouncing the vengeance of Judge Lynch against the _Chevaliers
-D'Industrie_--anglicè black legs,--a fifth were pouring a volley of
+D'Industrie_--anglicÃ¨ black legs,--a fifth were pouring a volley of
 exterminating epithets upon the head of Amos Kendall and the Little
 Magician; and a sixth, did not even spare his majesty King Calwell
 himself and his minister of the home department, for putting them in
@@ -6768,7 +6744,7 @@ _Ball_.
 [Footnote 2: The gift of Mr. Henderson, a wealthy gentleman of New
 Orleans.]
 
-[Footnote 3: Hygeia was the daughter of Æsculapius, and was
+[Footnote 3: Hygeia was the daughter of Ã†sculapius, and was
 granddaughter of Apollo or the Sun.]
 
 [Footnote 4: Mr. Henderson's White Lady was no doubt a liberal
@@ -7165,7 +7141,7 @@ stimulation of every kind; led a sedentary and studious life; and been
 subject to a great variety of dyspeptic affections. On the 5th of
 January, 1835, he left his recitation room at 11 o'clock, A. M., and
 walked briskly, with his surtout buttoned round him, to his residence,
-three quarters of a mile. The thermometer was at 8°, and the barometer
+three quarters of a mile. The thermometer was at 8Â°, and the barometer
 at 29.248--the sky clear and calm. On reaching home he engaged in
 meteorological observations, and in 30 minutes, while in the open air
 about to record the direction of the winds--
@@ -7273,7 +7249,7 @@ burns.'" pp. 27-28.
 _The Classical Family Library. Numbers XV, XVI, and XVII. Euripides
 translated by the Reverend R. Potter, Prebendary of Norwich. Harper &
 Brothers, New York._ These three volumes embrace the whole of
-Euripides--Æschylus and Sophocles having already been published in the
+Euripides--Ã†schylus and Sophocles having already been published in the
 Library. A hasty glance at the work will not enable us to speak
 positively in regard to the value of these translations. The name of
 Potter, however, is one of high authority, and we have no reason to
@@ -7307,7 +7283,7 @@ Destiny or Fate. Secondly, in the Chorus. Thirdly, in Ideality. But in
 Euripides we behold only the decline and fall of that drama, and the
 three prevailing features we have mentioned are in him barely
 distinguishable, or to be seen only in their perversion. What, for
-example is, with Sophocles, and still more especially with Æschylus,
+example is, with Sophocles, and still more especially with Ã†schylus,
 the obscure and terrible spirit of predestination, sometimes mellowed
 down towards the catastrophe of their dramas into the unseen, yet not
 unfelt hand of a kind Providence, or overruling God, becomes in the
@@ -7362,7 +7338,7 @@ portion of his serious attention. He made no scruple of admitting the
 _parabasis_ into his tragedies[1]--a license which although well
 suited to the spirit of comedy, was entirely out of place, and must
 have had a ludicrous effect in a serious drama. In some instances
-also, among which we may mention the Danaidæ, a female Chorus is
+also, among which we may mention the DanaidÃ¦, a female Chorus is
 permitted by him to make use of grammatical inflexions proper only for
 males.
 
@@ -7382,7 +7358,7 @@ increase of bodily size, the scenic illusions of a nature very
 different, and much more extensive than our own, inasmuch as actual
 realities were called in to the aid of art, were on the other hand the
 Ideality of representation. But although in Sophocles, and more
-especially in Æschylus, character and expression were made subservient
+especially in Ã†schylus, character and expression were made subservient
 and secondary to this ideal and lofty elevation--in Euripides the
 reverse is always found to be the case. His heroes are introduced
 familiarly to the spectators, and so far from raising his men to the
@@ -7485,363 +7461,4 @@ stamp a high character upon the Gift.
 End of the Project Gutenberg EBook of The Southern Literary Messenger, Vol.
 I., No. 13, September, 1835, by Various
 
-*** END OF THIS PROJECT GUTENBERG EBOOK SOUTHERN LITERARY MESSENGER, SEPT 1835 ***
-
-***** This file should be named 59383-8.txt or 59383-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/9/3/8/59383/
-
-Produced by Ron Swanson
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 59383 ***
